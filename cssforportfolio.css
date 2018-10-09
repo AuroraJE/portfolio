@@ -1,0 +1,29 @@
+h1 {
+	font-size: 100px;
+	color: black;
+	font-family: "Coustard";
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 50px;
+	font-weight: 900;
+	
+
+}
+
+h2 {
+	font-family: "Coustard";
+	font-size: 25px;
+	text-align: left;
+    padding-right: 450px;
+    padding-bottom: 50px;
+    padding-left: 450px;
+}
+
+h3 {
+	font-family: "Coustard";
+	font-size: 25px;
+	text-align: left;
+    padding-right: 450px;
+    padding-bottom: 50px;
+    padding-left: 450px;
+}
