@@ -1,10 +1,23 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+li {
+    display: inline;
+    padding-right: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
 h1 {
 	font-size: 100px;
 	color: black;
 	font-family: 'Ubuntu', sans-serif;
 	text-align: center;
 	padding-top: 100px;
-	padding-bottom: 50px;
 	font-weight: 900;
 	
 
@@ -13,10 +26,10 @@ h1 {
 h2 {
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 25px;
-	text-align: left;
-    padding-right: 425px;
+	text-align: justify;
+    padding-right: 430px;
     padding-bottom: 50px;
-    padding-left: 425px;
+    padding-left: 429px;
     font-weight:100;
 }
 
