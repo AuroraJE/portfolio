@@ -1,7 +1,7 @@
 h1 {
 	font-size: 100px;
 	color: black;
-	font-family: "Coustard";
+	font-family: 'Ubuntu', sans-serif;
 	text-align: center;
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -11,19 +11,41 @@ h1 {
 }
 
 h2 {
-	font-family: "Coustard";
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 25px;
 	text-align: left;
-    padding-right: 450px;
+    padding-right: 425px;
     padding-bottom: 50px;
-    padding-left: 450px;
+    padding-left: 425px;
+    font-weight:100;
 }
 
 h3 {
-	font-family: "Coustard";
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 25px;
 	text-align: left;
-    padding-right: 450px;
+    padding-right: 425px;
     padding-bottom: 50px;
-    padding-left: 450px;
+    padding-left: 425px;
+   
+
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: lightgray;
+}
+
+a:active {
+    text-decoration: bold;
+    color: black;
 }
