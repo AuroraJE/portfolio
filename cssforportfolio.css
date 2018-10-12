@@ -26,7 +26,7 @@ h1 {
 h2 {
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 25px;
-	text-align: justify;
+    text-justify: distribute;
     padding-right: 430px;
     padding-bottom: 50px;
     padding-left: 429px;
